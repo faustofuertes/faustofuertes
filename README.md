@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **fausto.fuertes.83@gmail.com**
 
-- ⚡ Quote of the day :- "For me, giving up is way harder than trying."
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
