@@ -30,8 +30,8 @@
   <a style="margin: 0 10px;" target="_blank" href="https://www.linkedin.com/in/fausto-fuertes-667986254">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a style="margin: 0 10px; color:white" target="_blank" href="https://github.com/faustofuertes">
-    <img src="https://img.icons8.com/glyph-neue/48/000000/github.png" alt="GitHub"/>
+<a style="margin: 0 10px;" target="_blank" href="https://github.com/faustofuertes">
+    <img src="https://img.icons8.com/ios-filled/48/ffffff/github.png" alt="GitHub"/>
   </a>
 </div>
 
